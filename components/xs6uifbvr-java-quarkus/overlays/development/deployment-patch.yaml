@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.cd50ea14-5ec7-4cdd-a49a-d60d77675844.prod.konfluxeaas.com/rhtap/rhtap-qe-java-quarkus:f1079d0a1b8f4aa271ef101dd7b8dc8d04882621@sha256:a669f50283748f4e8773979fd2efd8cbfb178080504b4cc128510884827b8eaa
+        - image: rhtap-quay-quay-rhtap-quay.apps.cd50ea14-5ec7-4cdd-a49a-d60d77675844.prod.konfluxeaas.com/rhtap/rhtap-qe-java-quarkus:f1079d0a1b8f4aa271ef101dd7b8dc8d04882621@sha256:1e3ae1f8a05b4e131a0318a5dc4dc73f87de53aaeb6d9cdc52d0a5153bac314e
           name: container-image
